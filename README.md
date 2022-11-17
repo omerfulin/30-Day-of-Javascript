@@ -1,2 +1,2 @@
 # 30-Day-of-Javascript
-JS
+J.....S
