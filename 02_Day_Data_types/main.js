@@ -4,3 +4,5 @@ console.log(lightOn==lightOff)
 
 console.log(num)
 console.log(words)
+
+console.log(numbers2)
